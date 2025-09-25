@@ -1,7 +1,7 @@
 // Online C compiler to run C program online
 #include <stdio.h>
 
-int main() {
+void main() {
     int water_level;
     printf("Enter water level (between 0-5 or 495-500):");
     scanf("%d", &water_level);
