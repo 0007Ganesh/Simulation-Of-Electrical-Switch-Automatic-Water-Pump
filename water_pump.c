@@ -13,7 +13,7 @@ void main() {
     } else if (water_level >= 495) {
         printf("Motor OFF\n");
     } else {
-        printf("Motor OFF\n");
+        printf("Error\n");
     }
 
 }
